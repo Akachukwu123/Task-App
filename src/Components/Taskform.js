@@ -56,7 +56,7 @@ function Taskform(){
  
   return <div className='main'>
      <div className='head' id='head'>
-        <b>TASKS</b> <span>0</span>
+        <b>TASKS</b> 
         <button onClick={()=>show()}>+</button>
      </div>
      <div className='task-form' id='Tform'>
